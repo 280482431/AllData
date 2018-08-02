@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "lvfj/kLine/StockDataModel[&#x6570;&#x636e;&#x6e90;Model]/lvfjStockViewController.m"
+            timestampString = "554113498.310308"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "139"
+            endingLineNumber = "139"
+            landmarkName = "-fetchData:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "lvfj/kLine/StockDataModel[&#x6570;&#x636e;&#x6e90;Model]/lvfjStockViewController.m"
+            timestampString = "554113498.310437"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "69"
+            endingLineNumber = "69"
+            landmarkName = "-initWithName:code:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "lvfj/kLine/StockDataModel[&#x6570;&#x636e;&#x6e90;Model]/lvfjStockViewController.m"
+            timestampString = "554113498.310505"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "147"
+            endingLineNumber = "147"
+            landmarkName = "-fetchData:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[lvfjStockViewController fetchData:]"
+                  moduleName = "AllData"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lvfeijun/Documents/svn1/myapp/AllData/lvfj/kLine/StockDataModel%5B%E6%95%B0%E6%8D%AE%E6%BA%90Model%5D/lvfjStockViewController.m"
+                  timestampString = "554113498.346081"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "148"
+                  endingLineNumber = "148"
+                  offsetFromSymbolStart = "697">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__37-[lvfjStockViewController fetchData:]_block_invoke.166"
+                  moduleName = "AllData"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lvfeijun/Documents/svn1/myapp/AllData/lvfj/kLine/StockDataModel%5B%E6%95%B0%E6%8D%AE%E6%BA%90Model%5D/lvfjStockViewController.m"
+                  timestampString = "554113498.348629"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "148"
+                  endingLineNumber = "148"
+                  offsetFromSymbolStart = "52">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
